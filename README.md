@@ -13,7 +13,7 @@ CEST Analyzer is the software for B0 correction and generating MTR map of CEST (
 
 ## Requirements
  - Python3
- - Numpy
+ - Numpy, Scipy
  - OpenCV, PIL, scikit-image
  - Pydicom, Nibabel
  - matplotlib

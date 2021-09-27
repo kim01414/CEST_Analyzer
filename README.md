@@ -26,16 +26,20 @@ When you downloaded files and installed all requiremnts, then running:
     
     $ python main.py
 
-CEST Analyzer must need RF frequency offeset file to handle CEST images. (ex) offset.txt.
+CEST Analyzer must need RF frequency offeset file to handle CEST images. (ex) [./CEST_frequency/CEST3_freq_user8_200716.txt](https://raw.githubusercontent.com/kim01414/CEST_Analyzer/main/CEST_frequency/CEST3_freq_user8_200716.txt)
 
     128
+    96
     64
+    48
     32
     16
     0
     -16
     -32
+    -48
     -64
+    -96
     -128
 ![img2](./readme/Screenshot2.png)
 

@@ -22,7 +22,7 @@ CEST Analyzer is the software for B0 correction and generating MTR map of CEST (
     $ git clone https://github.com/kim01414/CEST_Analyzer
 
 ## How to Use
-When you downloaded files and installed all requiremnts, then running:
+When you downloaded files and installed all requirements, then running:
     
     $ python main.py
 
